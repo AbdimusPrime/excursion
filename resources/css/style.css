@@ -25,6 +25,10 @@ a {
     color: aquamarine;
 }
 
+img {
+    margin: 20px;
+}
+
 footer {
     text-align: right;
 }
